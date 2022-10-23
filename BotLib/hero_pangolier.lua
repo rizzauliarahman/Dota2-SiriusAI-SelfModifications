@@ -24,7 +24,7 @@ local tDefaultGroupedData = {
 	--装备
 	['Buy'] = {
 		"item_tango",
-		"两个item_enchanted_mango",
+		"item_enchanted_mango",
 		"item_flask",
 		"item_quelling_blade",
 		"item_boots",

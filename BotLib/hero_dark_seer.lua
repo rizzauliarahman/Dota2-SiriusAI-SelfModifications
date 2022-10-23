@@ -20,7 +20,7 @@ local tDefaultGroupedData = {
 	['Ability'] = {2,3,2,3,2,1,2,6,1,3,6,3,1,1,6},
 	['Buy'] = {
 		"两个item_tango",
-		"两个item_enchanted_mango",
+		"item_enchanted_mango",
 		"item_flask",
 		"item_quelling_blade",
 		"item_soul_ring",
