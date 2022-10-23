@@ -23,28 +23,28 @@ local tDefaultGroupedData = {
 	['Ability'] = { 1, 3, 1, 3, 1, 6, 1, 2, 2, 2, 6, 2, 3, 3, 6 },
 	--装备
 	['Buy'] = {
-		"item_tango",
-		"两个item_enchanted_mango",
-		"item_flask",
-		"item_quelling_blade",
-		"item_boots",
-		"item_maelstrom",
-		"item_diffusal_blade",
-		"item_basher",
-		"item_ultimate_scepter",
-		"item_monkey_king_bar",
-		"item_guardian_greaves",
+		"树之祭祀",
+		"两个魔法芒果",
+		"治疗药膏",
+		"压制之刃",
+		"速度之靴",
+		"漩涡",
+		"净魂之刃",
+		"碎颅锤",
+		"阿哈利姆神杖",
+		"金箍棒",
+		"卫士胫甲",
 	},
 	--出售
 	['Sell'] = {
-		"item_mjollnir",
-		"item_maelstrom",
+		"雷神之锤",
+		"漩涡",
 
-		"item_abyssal_blade",
-		"item_basher",
+		"深渊之刃",
+		"碎颅锤",
 		
-		"item_crimson_guard",
-		"item_quelling_blade",
+		"赤红甲",
+		"压制之刃",
 		
 	},
 }

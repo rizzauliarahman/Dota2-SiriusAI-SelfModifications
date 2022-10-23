@@ -24,27 +24,27 @@ local tDefaultGroupedData = {
 	['Ability'] = {1,3,2,3,1,6,3,3,1,1,6,2,2,2,6},
 	--装备
 	['Buy'] = {
-		"item_branches",
-		"item_circlet",
-		"item_mantle",
-		"item_tango",
-		"item_bottle",
-		"item_null_talisman",
-		"item_magic_wand",
-		"item_power_treads",
-		"item_kaya",
-		"item_orchid", 
-		"item_bloodstone",
-		"item_black_king_bar",
-		"item_bloodthorn",
-		"item_ultimate_scepter",
-		"item_ultimate_scepter2",
-		"item_shivas_guard",
+		"铁树枝干",
+		"圆环",
+		"智力斗篷",
+		"树之祭祀",
+		"魔瓶",
+		"空灵挂件",
+		"魔杖",
+		"动力鞋",
+		"慧光",
+		"紫怨", 
+		"血精石",
+		"黑皇杖",
+		"血棘",
+		"阿哈利姆神杖",
+		"阿哈利姆神杖2",
+		"希瓦的守护",
 	},
 	--出售
 	['Sell'] = {
-		"item_travel_boots",
-		"item_power_treads"
+		"远行鞋",
+		"动力鞋"
 	},
 }
 

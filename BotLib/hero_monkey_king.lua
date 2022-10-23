@@ -19,21 +19,21 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {4,1,2,4,4,6,4,1,1,1,2,2,2,6,6},
 	['Buy'] = {
-		"item_quelling_blade",
-		"item_tango",
-		"item_magic_wand",
-		"item_phase_boots",
-		"item_echo_sabre",
-		"item_invis_sword",
-		"item_sange_and_yasha",
-		"item_black_king_bar",
-		"item_silver_edge",
-		"item_ultimate_scepter2",
-		"item_monkey_king_bar"
+		"压制之刃",
+		"树之祭祀",
+		"魔杖",
+		"相位鞋",
+		"回音战刃",
+		"影刃",
+		"散夜对剑",
+		"黑皇杖",
+		"白银之锋",
+		"阿哈利姆神杖2",
+		"金箍棒"
 	},
 	['Sell'] = {
-		"item_desolator_2",
-		"item_quelling_blade"
+		"寂灭",
+		"压制之刃"
 	}
 }
 

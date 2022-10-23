@@ -21,21 +21,21 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {1,2,1,3,1,6,1,2,2,2,6,3,3,3,6},
 	['Buy'] = {
-		"两个item_branches",
-		"item_wraith_band",
-		"item_magic_wand",
-		"item_power_treads",
-		"item_maelstrom",
-		"item_blight_stone",
+		"两个铁树枝干",
+		"怨灵系带",
+		"魔杖",
+		"动力鞋",
+		"漩涡",
+		"枯萎之石",
 		"缚灵锁",
-		"item_dragon_lance", 
-		"item_desolator",
-		"item_greater_crit",
-		"item_hurricane_pike",
+		"魔龙枪", 
+		"黯灭",
+		"代达罗斯之殇",
+		"飓风长戟",
 	},
 	['Sell'] = {
-		"item_wraith_band",
-		"item_black_king_bar",
+		"怨灵系带",
+		"黑皇杖",
 	}
 }
 

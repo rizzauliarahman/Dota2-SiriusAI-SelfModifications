@@ -17,22 +17,22 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {2,1,2,3,2,6,2,1,1,1,6,3,3,3,6},
 	['Buy'] = {
-		'item_tango',
-		'两个item_enchanted_mango',
-		'item_quelling_blade',
-		'item_phase_boots',
-		'item_basher',
-		'item_sange_and_yasha',
-		'item_armlet',
-		'item_mask_of_madness',
-		'item_assault',
-		'item_ultimate_scepter',
-		'item_nullifier',
-		'item_abyssal_blade'
+		'树之祭祀',
+		'两个魔法芒果',
+		'压制之刃',
+		'相位鞋',
+		'碎颅锤',
+		'散夜对剑',
+		'莫尔迪基安的臂章',
+		'疯狂面具',
+		'强袭胸甲',
+		'阿哈利姆神杖',
+		'否决坠饰',
+		'深渊之刃'
 	},
 	['Sell'] = {
-		'item_radiance',
-		'item_quelling_blade',
+		'辉耀',
+		'压制之刃',
 	}
 }
 
