@@ -65,7 +65,7 @@ local tGroupedDataList = {
 		['Buy'] = {
 			"item_tango",
 			"item_flask",
-			"item_enchanted_mango",
+			"两个item_enchanted_mango",
 			"item_gauntlets",
 			"item_magic_stick",
 			"item_bracer",
@@ -113,7 +113,7 @@ local tGroupedDataList = {
 		['Buy'] = {
 			"item_tango",
 			"item_quelling_blade",
-			"item_enchanted_mango",
+			"两个item_enchanted_mango",
 			"item_gauntlets",
 			"item_magic_stick",
 			"item_bracer",

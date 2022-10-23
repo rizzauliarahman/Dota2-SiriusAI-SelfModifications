@@ -23,7 +23,7 @@ local tGroupedDataList = {
 		--装备
 		['Buy'] = {
 			'item_tango',
-			'item_enchanted_mango',
+			'两个item_enchanted_mango',
 			'item_quelling_blade',
 			'item_enchanted_mango',
 			'item_magic_wand',
@@ -59,7 +59,7 @@ local tGroupedDataList = {
 		--装备
 		['Buy'] = {
 			'item_tango',
-			'item_enchanted_mango',
+			'两个item_enchanted_mango',
 			'item_enchanted_mango',
 			'item_quelling_blade',
 			'item_magic_wand',
@@ -105,7 +105,7 @@ local tGroupedDataList = {
 			"item_magic_stick",
 			"item_magic_wand",
 			"item_phase_boots",
-			"item_enchanted_mango",
+			"两个item_enchanted_mango",
 			"item_ancient_janggo",
 			"item_medallion_of_courage",
 			"item_vladmir",

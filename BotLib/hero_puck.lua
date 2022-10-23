@@ -29,7 +29,7 @@ local tGroupedDataList = {
 			"item_tango",
 			"item_bottle",
 			"item_null_talisman",
-			"item_enchanted_mango",
+			"两个item_enchanted_mango",
 			"item_clarity",
 			"item_blink",
 			"item_clarity",

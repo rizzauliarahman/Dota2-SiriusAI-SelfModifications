@@ -69,7 +69,7 @@ local tDefaultGroupedData = {
 		"item_clarity",
 		"item_enchanted_mango",
 		"item_magic_stick",
-		"item_enchanted_mango",
+		"两个item_enchanted_mango",
 		"item_magic_wand",
 		"item_wind_lace",
 		"item_medallion_of_courage",
