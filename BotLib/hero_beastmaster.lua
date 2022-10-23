@@ -19,24 +19,24 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {1,2,2,1,2,6,1,1,2,4,6,4,4,4,6},
 	['Buy'] = {
-		"魔法芒果",
-		"两个魔法芒果",
-		"树之祭祀",
-		"淬毒之珠",
-		"护腕",
-		"魔棒",
-		"相位鞋",
-		"影之灵龛",
-		"阿托斯之棍",
-		"死灵书",
-		"阿哈利姆神杖",
-		"碎颅锤",
-		"邪恶镰刀",
-		"深渊之刃"
+		"item_enchanted_mango",
+		"两个item_enchanted_mango",
+		"item_tango",
+		"item_orb_of_venom",
+		"item_bracer",
+		"item_magic_stick",
+		"item_phase_boots",
+		"item_urn_of_shadows",
+		"item_rod_of_atos",
+		"item_necronomicon",
+		"item_ultimate_scepter",
+		"item_basher",
+		"item_sheepstick",
+		"item_abyssal_blade"
 	},
 	['Sell'] = {
-		"虚灵之刃",
-		"淬毒之珠",
+		"item_ethereal_blade",
+		"item_orb_of_venom",
 	}
 }
 

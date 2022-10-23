@@ -196,7 +196,7 @@ function X.SkillsComplement()
 			end		
 		end
 			
-		--释放刃甲
+		--释放item_blade_mail
 		local abilityBM = J.IsItemAvailable( "item_blade_mail" )
 		if abilityBM ~= nil 
 			and abilityBM:IsFullyCastable()

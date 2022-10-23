@@ -136,7 +136,7 @@ function X.SkillsComplement()
 
 	--被动技能通常无需操作，如果想要配合进行一些其他操作也可以写
 
-	castRDesire = X.ConsiderR();--索引终极技能（快捷键R）
+	castRDesire = X.ConsiderR();--索引终item_apex技能（快捷键R）
 	if ( castRDesire > 0 ) 
 	then
 	

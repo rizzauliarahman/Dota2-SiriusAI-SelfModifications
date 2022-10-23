@@ -20,18 +20,18 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {2,1,2,1,2,6,1,2,1,3,6,3,3,3,6},
 	['Buy'] = {
-		"树之祭祀",
-		"力量手套",
-		"两个铁树枝干",
-		"魔杖",
-		"动力鞋",
-		"散夜对剑",
-		"挑战头巾",
-		"刃甲",
-		"洞察烟斗",
-		"清莲宝珠",
-		"阿哈利姆神杖2",
-		"希瓦的守护"
+		"item_tango",
+		"item_gauntlets",
+		"两个item_branches",
+		"item_magic_wand",
+		"item_power_treads",
+		"item_sange_and_yasha",
+		"item_hood_of_defiance",
+		"item_blade_mail",
+		"item_pipe",
+		"item_lotus_orb",
+		"item_ultimate_scepter2",
+		"item_shivas_guard"
 	},
 	['Sell'] = {
 	}

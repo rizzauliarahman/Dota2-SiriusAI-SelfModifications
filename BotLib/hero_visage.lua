@@ -24,26 +24,26 @@ local tDefaultGroupedData = {
 	['Ability'] = {1,3,2,2,3,6,2,3,3,1,6,1,2,1,6},
 	--装备
 	['Buy'] = {
-		"压制之刃",
-		"攻击之爪",
-		"树之祭祀",
-		"枯萎之石",
-		"魔杖",
-		"速度之靴",
-		"勇气勋章",
-		"静谧之鞋",
-		"弗拉迪米尔的祭品",
-		"原力法杖", 
-		"洞察烟斗",
-		"邪恶镰刀",
-		"阿哈利姆神杖",
-		"清莲宝珠",
-		"阿哈利姆神杖2",
+		"item_quelling_blade",
+		"item_blades_of_attack",
+		"item_tango",
+		"item_blight_stone",
+		"item_magic_wand",
+		"item_boots",
+		"item_medallion_of_courage",
+		"item_tranquil_boots",
+		"item_vladmir",
+		"item_force_staff", 
+		"item_pipe",
+		"item_sheepstick",
+		"item_ultimate_scepter",
+		"item_lotus_orb",
+		"item_ultimate_scepter2",
 	},
 	--出售
 	['Sell'] = {
-		"远行鞋",
-		"静谧之鞋"
+		"item_travel_boots",
+		"item_tranquil_boots"
 	},
 }
 

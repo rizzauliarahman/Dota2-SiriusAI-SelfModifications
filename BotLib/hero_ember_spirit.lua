@@ -21,24 +21,24 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {3,1,3,1,3,6,3,1,2,2,2,2,1,6,6},
 	['Buy'] = {
-		"树之祭祀",
-		"两个铁树枝干",
-		"压制之刃",
-		"魔杖",
-		"速度之靴",
-		"怨灵系带",
-		"漩涡",
-		"远行鞋", 
-		"阿哈利姆神杖",
-		"雷神之锤",
-		"代达罗斯之殇"
+		"item_tango",
+		"两个item_branches",
+		"item_quelling_blade",
+		"item_magic_wand",
+		"item_boots",
+		"item_wraith_band",
+		"item_maelstrom",
+		"item_travel_boots", 
+		"item_ultimate_scepter",
+		"item_mjollnir",
+		"item_greater_crit"
 	},
 	['Sell'] = {
-		"银月之晶",
-		"压制之刃",
+		"item_moon_shard",
+		"item_quelling_blade",
 
-		"代达罗斯之殇",
-		"怨灵系带",
+		"item_greater_crit",
+		"item_wraith_band",
 	}
 }
 

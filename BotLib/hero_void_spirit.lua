@@ -21,26 +21,26 @@ local tDefaultGroupedData = {
 	},
 	['Ability'] = {1,2,3,2,2,6,2,3,3,3,6,1,1,1,6},
 	['Buy'] = {
-		"树之祭祀",
-		"两个铁树枝干",
-		"压制之刃",
-		"空灵挂件",
-		"相位鞋",
-		"纷争面纱",
-		"Eul的神圣法杖",
-		"玲珑心", 
-		"邪恶镰刀",
-		"达贡之神力5",
+		"item_tango",
+		"两个item_branches",
+		"item_quelling_blade",
+		"item_null_talisman",
+		"item_phase_boots",
+		"item_veil_of_discord",
+		"item_cyclone",
+		"item_octarine_core", 
+		"item_sheepstick",
+		"item_dagon5",
 	},
 	['Sell'] = {
-		"寂灭",
-		"压制之刃",
+		"item_desolator_2",
+		"item_quelling_blade",
 
-		"空灵挂件",
-		"黑皇杖",
+		"item_null_talisman",
+		"item_black_king_bar",
 
-		"远行鞋",
-		"相位鞋",
+		"item_travel_boots",
+		"item_phase_boots",
 	}
 }
 
